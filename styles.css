@@ -1,0 +1,15 @@
+img {
+    display: block;
+}
+ul {
+    list-style-type: none;
+}
+.ps4 {
+    background-color: blue;
+}
+.nin {background-color: red;}
+.pc {background-color: green;}
+.name {text-align: center;}
+table, th, td {
+    border: 1px solid black;
+  }
